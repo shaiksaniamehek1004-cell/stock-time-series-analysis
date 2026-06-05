@@ -131,8 +131,6 @@ A 7-day rolling average is calculated for trading volume.
 ---
 
 ## Generated Visualizations
-## Generated Visualizations
-
 ### Figure 1 – Stock Price Comparison
 
 ![Stock Price Comparison](Figure_1.png)
