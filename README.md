@@ -131,23 +131,33 @@ A 7-day rolling average is calculated for trading volume.
 ---
 
 ## Generated Visualizations
+## Generated Visualizations
 
-### Figure 1 – Closing Price Comparison
+### Figure 1 – Stock Price Comparison
+
+![Stock Price Comparison](Figure_1.png)
 
 * Apple Stock Closing Prices
 * Google Stock Closing Prices
 
+
 ### Figure 2 – Daily Trading Volume
+
+![Daily Trading Volume](Figure_2.png)
 
 * Apple Daily Volume
 * Google Daily Volume
 
-### Figure 3 – Weekly Mean Volume (7-Day Resampling)
+### Figure 3 – Weekly Average Volume (7-Day Mean)
+
+![Weekly Average Volume](Figure_3.png)
 
 * Apple Weekly Average Volume
 * Google Weekly Average Volume
 
 ### Figure 4 – Rolling Average Volume
+
+![Rolling Average Volume](Figure_4.png)
 
 * Apple 7-Day Rolling Volume
 * Google 7-Day Rolling Volume
