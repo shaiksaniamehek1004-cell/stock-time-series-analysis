@@ -82,13 +82,13 @@ The script saves generated charts as:
 stocks_analysis.png
 ```
 
-## Repository
+## Repository URL
 
-GitHub Repository:
+Repository URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
 
-```text
-https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
-```
+## Project URL
+
+Project URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
 
 ## Author
 
