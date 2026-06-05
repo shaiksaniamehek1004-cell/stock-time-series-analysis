@@ -134,31 +134,25 @@ A 7-day rolling average is calculated for trading volume.
 ### Figure 1 – Stock Price Comparison
 
 ![Stock Price Comparison](Figure_1.png)
-
-* Apple Stock Closing Prices
-* Google Stock Closing Prices
-
+*This chart shows a side-by-side view of the final daily prices (closing prices) for Apple and Google stocks throughout 2019 and 2020. It lets you easily see how both companies' stock values grew over time and how they both dropped during the market crash in early 2020 before recovering.
 
 ### Figure 2 – Daily Trading Volume
 
 ![Daily Trading Volume](Figure_2.png)
 
-* Apple Daily Volume
-* Google Daily Volume
+*This graph tracks the total number of shares bought and sold for both Apple and Google each day. It highlights how active investors were, showing that Apple generally had much higher daily trading activity than Google, with massive spikes during major market events. 
 
 ### Figure 3 – Weekly Average Volume (7-Day Mean)
 
 ![Weekly Average Volume](Figure_3.png)
 
-* Apple Weekly Average Volume
-* Google Weekly Average Volume
+* This visualization takes the messy daily trading data and groups it into 7-day chunks to show the average weekly activity. By smoothing out the daily spikes, it makes it much easier to see the broader, long-term trends in investor interest.
 
 ### Figure 4 – Rolling Average Volume
 
 ![Rolling Average Volume](Figure_4.png)
 
-* Apple 7-Day Rolling Volume
-* Google 7-Day Rolling Volume
+* This chart uses a moving 7-day average to smooth out sudden, short-term fluctuations in trading. It acts like a steady wave line that helps you clearly identify sustained periods where investor participation was unusually high or low.
 
 ---
 
