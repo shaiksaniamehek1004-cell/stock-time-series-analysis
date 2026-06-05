@@ -2,6 +2,10 @@
 
 This project downloads historical stock price data for Apple (AAPL) and Google (GOOG) using the `yfinance` library and performs time series analysis using Pandas and Matplotlib.
 
+## Project URL
+
+Project URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
+
 ## Features
 
 * Download historical stock data using `yfinance`
@@ -86,9 +90,6 @@ stocks_analysis.png
 
 Repository URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
 
-## Project URL
-
-Project URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
 
 ## Author
 
