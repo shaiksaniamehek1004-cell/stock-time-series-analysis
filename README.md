@@ -12,3 +12,5 @@ This project downloads historical stock price data for Apple (AAPL) and Google (
 1. Install the required Python libraries:
    ```bash
    pip install numpy pandas matplotlib yfinance
+###project URL
+https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis/tree/main
