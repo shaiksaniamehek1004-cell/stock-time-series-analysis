@@ -9,8 +9,14 @@ This project downloads historical stock price data for Apple (AAPL) and Google (
 - Computing 20-day and 200-day moving averages
 
 ## How to Run the Project
-1. Install the required Python libraries:
+1. Open your terminal or PowerShell and navigate to the project folder:
    ```bash
+   cd "C:\Users\princ\OneDrive\Desktop\PROJECTS\TIME SERIES ANALYSIS WITH PYTHON"
+2. Install the required Python libraries:
+   '''bash
    pip install numpy pandas matplotlib yfinance
-###project URL
-https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis/tree/main
+3. Run the analysis script:
+   '''bash
+   python analysis.py
+##Project URL
+   https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis/tree/main
