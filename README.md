@@ -1,5 +1,9 @@
 # Stock Time Series Analysis using Python: Apple vs Google (2019–2020)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sania%20Mehek%20Shaik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniamehekshaik1004)
+
+[![GitHub](https://img.shields.io/badge/GitHub-shaiksaniamehek1004--cell-black?logo=github&logoColor=white)](https://github.com/shaiksaniamehek1004-cell)
+
 ## Project URL
 
 Project URL: https://github.com/shaiksaniamehek1004-cell/stock-time-series-analysis
